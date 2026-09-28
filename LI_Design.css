@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding:100px;
+}
+
+h1{
+    color: #005430;
+    text-align: center;
+}
+
+
+.small_box{
+    padding: 10%;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
