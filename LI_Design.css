@@ -41,5 +41,9 @@ button{
     background-color: #005430;
     justify-content: center;
     text-align: center;
+}
+
+a{
+    text-decoration: none;
     color: white;
 }
